@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&family=Poppins&family=Roboto:wght@100&display=swap');
 
 * {
-    font-family: "poppins";
+    font-family: "roboto";
     padding: 5px;
+    list-style: none;
 }
 
 body {
@@ -17,4 +18,16 @@ a {
 
 a:hover {
     color: rgb(146, 146, 146);
+}
+
+@media (min-width: 768px) {
+    * {
+        text-align: center;
+        margin-top: 1px;
+    }
+    
+    body {
+        margin: 5em auto;
+        width: 40em;
+    }
 }

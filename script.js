@@ -1,9 +1,11 @@
 let projeto01 = {
   nome: "Aplicativo de anotações",
-  sinopse: "",
-  tecnologias: "",
-  funcionalidades: "",
-  layout: "",
+  sinopse:
+    "O app de anotações é projetado para proporcionar aos usuários uma plataforma simples e eficiente para registrar e organizar suas notas. Essa aplicação permite a criação, edição e exclusão de notas, promovendo uma organização lógica das informações. Priorizando simplicidade e praticidade, o objetivo é oferecer uma experiência intuitiva e direta para o usuário gerenciar suas anotações de maneira eficaz.",
+  tecnologias: "HTML, CSS, Javascript",
+  funcionalidades:
+    "Adicionar nota, editar nota, apagar nota, filtrar por categoria.",
+  layout: "Em desenvolvimento",
   roadmap: {
     create: "Implementação da funcionalidade de criação (Create)",
     read: "Implementação da funcionalidade de leitura (Read)",
@@ -16,6 +18,8 @@ let projeto01 = {
 
 let projeto02 = {
   nome: "Site para instituição de caridade",
+  sinopse:
+    "O site tem como objetivo criar uma presença online impactante para uma organização sem fins lucrativos. Com um design acessível e informativo, o site visa destacar as causas e atividades da instituição, incentivando o engajamento da comunidade.",
   tecnologias: "",
   funcionalidades: "",
   layout: "",
@@ -24,13 +28,18 @@ let projeto02 = {
 
 let projeto03 = {
   nome: "Plataforma de apoio à saúde mental",
+  sinopse:
+    "A plataforma de apoio à saúde mental é dedicada a fornecer recursos e suporte online para indivíduos que enfrentam desafios emocionais. Oferecendo informações e ferramentas interativas, o objetivo é criar um ambiente seguro para a promoção da saúde mental.",
   tecnologias: "",
   funcionalidades: "",
   layout: "",
   roadmap: {},
 };
+
 let projeto04 = {
   nome: "Calendário temático de eventos",
+  sinopse:
+    "O calendário temático de eventos é uma ferramenta interativa que apresenta uma variedade de eventos organizados por temas. Com uma interface envolvente, os usuários podem explorar e participar de diversas atividades, criando uma experiência personalizada de descoberta de eventos.",
   tecnologias: "",
   funcionalidades: "",
   layout: "",
@@ -39,6 +48,8 @@ let projeto04 = {
 
 let projeto05 = {
   nome: "Jogo de Quiz temático",
+  sinopse:
+    "O jogo de quiz temático é uma forma divertida de testar o conhecimento dos usuários sobre temas específicos. Com perguntas cativantes e desafios interativos, o objetivo é proporcionar entretenimento educativo, incentivando a aprendizagem enquanto se diverte.",
   tecnologias: "",
   funcionalidades: "",
   layout: "",
@@ -47,6 +58,8 @@ let projeto05 = {
 
 let projeto06 = {
   nome: "Gerador de frases temáticas engraçadas",
+  sinopse:
+    "O gerador de frases temáticas engraçadas é uma ferramenta leve e divertida que cria frases humorísticas para melhorar o dia do usuário. Projetado para gerar sorrisos, o aplicativo oferece uma maneira descontraída de entretenimento através da criação de frases engraçadas.",
   tecnologias: "",
   funcionalidades: "",
   layout: "",
@@ -55,6 +68,8 @@ let projeto06 = {
 
 let projeto07 = {
   nome: "Jogo de Memória",
+  sinopse:
+    "O jogo de memória é uma versão digital do clássico jogo de cartas que desafia a memória dos jogadores. Com diferentes níveis de dificuldade e temas envolventes, o objetivo é proporcionar uma experiência divertida e estimulante para todas as idades.",
   tecnologias: "",
   funcionalidades: "",
   layout: "",
@@ -63,6 +78,8 @@ let projeto07 = {
 
 let projeto08 = {
   nome: "Plataforma de previsão do tempo",
+  sinopse:
+    "A plataforma de previsão do tempo oferece informações meteorológicas precisas e visualmente atraentes. O objetivo é fornecer aos usuários uma ferramenta confiável para se manterem informados sobre as condições meteorológicas da sua região.",
   tecnologias: "",
   funcionalidades: "",
   layout: "",
@@ -71,6 +88,8 @@ let projeto08 = {
 
 let projeto09 = {
   nome: "Lista de compras interativas",
+  sinopse:
+    "A lista de compras interativas é uma aplicação prática para facilitar o processo de compra. Com recursos de organização, categorização e sugestões inteligentes, o objetivo é tornar a experiência de compra mais eficiente e agradável.",
   tecnologias: "",
   funcionalidades: "",
   layout: "",
